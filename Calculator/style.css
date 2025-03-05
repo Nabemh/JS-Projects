@@ -12,6 +12,7 @@ body{
     background-color: hsl(0, 0%, 15%);
     max-width: 500px;
     overflow: hidden;
+    border-radius: 15px;
 }
 
 #display{
@@ -21,6 +22,7 @@ body{
     text-align: left;
     border: none;
     background-color: hsl(0, 0%, 20%);
+    color: white;
 }
 
 #keys{
